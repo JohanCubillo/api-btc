@@ -3,7 +3,7 @@ const express = require ('express');
 const app = express();
 
 const morgan = require('morgan');
-const { propfind } = require('./routes');
+const { propfind } = require('./src/routes');
 
 //settings
 app.set('port',process.env.PORT || 3000)
@@ -17,9 +17,10 @@ app.use(express.urlencoded( { extended:false}
 app.use(express.json());
 
 
+
 // ROUTES
-app.use(require('./routes/index'));
-app.use ('/api/criptos',require('./routes/criptos'));
+app.use(require('./src/routes/index'));
+app.use ('/api/criptos',require('./src/routes/criptos'));
 
 
 //Starting server

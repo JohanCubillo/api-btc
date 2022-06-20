@@ -1,0 +1,440 @@
+[
+    {
+        "id" :"1",
+        "Nombre" : "Bitcoin",
+        "Simbologia" : "BTC",
+        "logo-png" : "https://cryptologos.cc/logos/cardano-ada-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/cardano-ada-logo.svg?v=022"
+        
+
+    },
+    {
+        "id" :"2",
+        "Nombre" : "Ethereum",
+        "Simbologia" : "ETH",
+        "logo-png" : "https://cryptologos.cc/logos/ethereum-eth-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=022"
+
+    },
+    {
+        "id" :"3",
+        "Nombre" : "Tether",
+        "Simbologia" : "USDT",
+        "logo-png" : "https://cryptologos.cc/logos/tether-usdt-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/tether-usdt-logo.svg?v=022"
+
+    }, {
+        "id" :"4",
+        "Nombre" : "USD Coin",
+        "Simbologia" : "USDC",
+        "logo-png" : "https://cryptologos.cc/logos/usd-coin-usdc-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/usd-coin-usdc-logo.svg?v=022"
+
+    }, {
+        "id" :"5",
+        "Nombre" : "BNB",
+        "Simbologia" : "BNB",
+        "logo-png" : "https://cryptologos.cc/logos/bnb-bnb-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/bnb-bnb-logo.svg?v=022"
+
+    }, {
+        "id" :"6",
+        "Nombre" : "Binance USD",
+        "Simbologia" : "BUSD",
+        "logo-png" : "https://cryptologos.cc/logos/binance-usd-busd-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/binance-usd-busd-logo.svg?v=022"
+
+    }, {
+        "id" :"7",
+        "Nombre" : "Cardano",
+        "Simbologia" : "ADA",
+        "logo-png" : "https://cryptologos.cc/logos/cardano-ada-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/cardano-ada-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"8",
+        "Nombre" : "Ripple",
+        "Simbologia" : "XRP",
+        "logo-png" : "https://cryptologos.cc/logos/xrp-xrp-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/xrp-xrp-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"9",
+        "Nombre" : "Solana",
+        "Simbologia" : "SOL",
+        "logo-png" : "https://cryptologos.cc/logos/solana-sol-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/solana-sol-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"10",
+        "Nombre" : "DogeCoin",
+        "Simbologia" : "DOGE",
+        "logo-png" : "https://cryptologos.cc/logos/dogecoin-doge-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/dogecoin-doge-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"11",
+        "Nombre" : "Polkadot",
+        "Simbologia" : "DOT",
+        "logo-png" : "https://cryptologos.cc/logos/polkadot-new-dot-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/polkadot-new-dot-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"12",
+        "Nombre" : "Dai",
+        "Simbologia" : "DAI",
+        "logo-png" : "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"13",
+        "Nombre" : "Tron",
+        "Simbologia" : "TRX",
+        "logo-png" : "https://cryptologos.cc/logos/tron-trx-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/tron-trx-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"14",
+        "Nombre" : "Wrapped Bitcoin",
+        "Simbologia" : "WBTC",
+        "logo-png" : "https://cryptologos.cc/logos/wrapped-bitcoin-wbtc-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/wrapped-bitcoin-wbtc-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"15",
+        "Nombre" : "UNUS SED LEO",
+        "Simbologia" : "LEO",
+        "logo-png" : "https://cryptologos.cc/logos/unus-sed-leo-leo-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/unus-sed-leo-leo-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"16",
+        "Nombre" : "Avalache",
+        "Simbologia" : "AVAX",
+        "logo-png" : "https://cryptologos.cc/logos/avalanche-avax-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/avalanche-avax-logo.svg?v=022"
+
+    }, {
+        "id" :"17",
+        "Nombre" : "Shiba-Inu",
+        "Simbologia" : "SHIB",
+        "logo-png" : "https://cryptologos.cc/logos/shiba-inu-shib-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/shiba-inu-shib-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"18",
+        "Nombre" : "LiteCoin",
+        "Simbologia" : "LTC",
+        "logo-png" : "https://cryptologos.cc/logos/litecoin-ltc-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/litecoin-ltc-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"19",
+        "Nombre" : "FTX Token",
+        "Simbologia" : "FTT",
+        "logo-png" : "https://cryptologos.cc/logos/ftx-token-ftt-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/ftx-token-ftt-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"20",
+        "Nombre" : "Chainlink",
+        "Simbologia" : "LINK",
+        "logo-png" : "https://cryptologos.cc/logos/chainlink-link-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/chainlink-link-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"21",
+        "Nombre" : "Polygon",
+        "Simbologia" : "MATIC",
+        "logo-png" : "https://cryptologos.cc/logos/polygon-matic-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/polygon-matic-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"22",
+        "Nombre" : "Uniswap",
+        "Simbologia" : "UNI",
+        "logo-png" : "https://cryptologos.cc/logos/uniswap-uni-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/uniswap-uni-logo.png?v=022"
+
+    }
+    , {
+        "id" :"23",
+        "Nombre" : "Cronos",
+        "Simbologia" : "CRO",
+        "logo-png" : "https://cryptologos.cc/logos/crypto-com-coin-cro-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/crypto-com-coin-cro-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"24",
+        "Nombre" : "Stellar",
+        "Simbologia" : "XLM",
+        "logo-png" : "https://cryptologos.cc/logos/stellar-xlm-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/stellar-xlm-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"25",
+        "Nombre" : "Near Protocol",
+        "Simbologia" : "NEAR",
+        "logo-png" : "https://cryptologos.cc/logos/near-protocol-near-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/near-protocol-near-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"26",
+        "Nombre" : "Avalache",
+        "Simbologia" : "BCH",
+        "logo-png" : "https://cryptologos.cc/logos/bitcoin-cash-bch-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/bitcoin-cash-bch-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"27",
+        "Nombre" : "Ethereum Classic",
+        "Simbologia" : "ETC",
+        "logo-png" : "https://cryptologos.cc/logos/ethereum-classic-etc-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/ethereum-classic-etc-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"28",
+        "Nombre" : "Algorand",
+        "Simbologia" : "ALGO",
+        "logo-png" : "https://cryptologos.cc/logos/algorand-algo-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/algorand-algo-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"29",
+        "Nombre" : "Monero",
+        "Simbologia" : "XMR",
+        "logo-png" : "https://cryptologos.cc/logos/monero-xmr-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/monero-xmr-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"30",
+        "Nombre" : "Cosmos",
+        "Simbologia" : "ATOM",
+        "logo-png" : "https://cryptologos.cc/logos/cosmos-atom-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/cosmos-atom-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"31",
+        "Nombre" : "VeChain",
+        "Simbologia" : "VET",
+        "logo-png" : "https://cryptologos.cc/logos/vechain-vet-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/vechain-vet-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"32",
+        "Nombre" : "Decentralnd",
+        "Simbologia" : "MANA",
+        "logo-png" : "https://cryptologos.cc/logos/decentraland-mana-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/decentraland-mana-logo.svg?v=022"
+
+    } , {
+        "id" :"33",
+        "Nombre" : "Hedera",
+        "Simbologia" : "HBAR",
+        "logo-png" : "https://cryptologos.cc/logos/hedera-hbar-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/hedera-hbar-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"34",
+        "Nombre" : "Flow",
+        "Simbologia" : "FLOW",
+        "logo-png" : "https://cryptologos.cc/logos/flow-flow-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/flow-flow-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"35",
+        "Nombre" : "Internet Computer",
+        "Simbologia" : "ICP",
+        "logo-png" : "https://cryptologos.cc/logos/internet-computer-icp-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/internet-computer-icp-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"36",
+        "Nombre" : "Tezos",
+        "Simbologia" : "XTZ",
+        "logo-png" : "https://cryptologos.cc/logos/tezos-xtz-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/tezos-xtz-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"37",
+        "Nombre" : "Elrond ",
+        "Simbologia" : "EGLD ",
+        "logo-png" : "https://cryptologos.cc/logos/elrond-egld-egld-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/elrond-egld-egld-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"38",
+        "Nombre" : "Helium",
+        "Simbologia" : "HNT",
+        "logo-png" : "https://cryptologos.cc/logos/helium-hnt-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/helium-hnt-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"39",
+        "Nombre" : "Theta",
+        "Simbologia" : "THETA",
+        "logo-png" : "https://cryptologos.cc/logos/theta-network-theta-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/theta-network-theta-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"40",
+        "Nombre" : "Bitcoin SV",
+        "Simbologia" : "BSV",
+        "logo-png" : "https://cryptologos.cc/logos/bitcoin-sv-bsv-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/bitcoin-sv-bsv-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"41",
+        "Nombre" : "Filecoin",
+        "Simbologia" : "FIL",
+        "logo-png" : "https://cryptologos.cc/logos/filecoin-fil-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/filecoin-fil-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"42",
+        "Nombre" : "TrueUSD",
+        "Simbologia" : "TUSD",
+        "logo-png" : "https://cryptologos.cc/logos/trueusd-tusd-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/trueusd-tusd-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"43",
+        "Nombre" : "Axie Infinity",
+        "Simbologia" : "AXS",
+        "logo-png" : "https://cryptologos.cc/logos/axie-infinity-axs-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/axie-infinity-axs-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"44",
+        "Nombre" : "Sandbox",
+        "Simbologia" : "SAND",
+        "logo-png" : "https://cryptologos.cc/logos/the-sandbox-sand-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/the-sandbox-sand-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"32",
+        "Nombre" : "Decentralnd",
+        "Simbologia" : "MANA",
+        "logo-png" : "https://cryptologos.cc/logos/decentraland-mana-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/decentraland-mana-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"32",
+        "Nombre" : "Decentralnd",
+        "Simbologia" : "MANA",
+        "logo-png" : "https://cryptologos.cc/logos/decentraland-mana-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/decentraland-mana-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"32",
+        "Nombre" : "Decentralnd",
+        "Simbologia" : "MANA",
+        "logo-png" : "https://cryptologos.cc/logos/decentraland-mana-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/decentraland-mana-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"32",
+        "Nombre" : "Decentralnd",
+        "Simbologia" : "MANA",
+        "logo-png" : "https://cryptologos.cc/logos/decentraland-mana-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/decentraland-mana-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"32",
+        "Nombre" : "Decentralnd",
+        "Simbologia" : "MANA",
+        "logo-png" : "https://cryptologos.cc/logos/decentraland-mana-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/decentraland-mana-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"32",
+        "Nombre" : "Decentralnd",
+        "Simbologia" : "MANA",
+        "logo-png" : "https://cryptologos.cc/logos/decentraland-mana-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/decentraland-mana-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"32",
+        "Nombre" : "Decentralnd",
+        "Simbologia" : "MANA",
+        "logo-png" : "https://cryptologos.cc/logos/decentraland-mana-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/decentraland-mana-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"32",
+        "Nombre" : "Decentralnd",
+        "Simbologia" : "MANA",
+        "logo-png" : "https://cryptologos.cc/logos/decentraland-mana-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/decentraland-mana-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"32",
+        "Nombre" : "Decentralnd",
+        "Simbologia" : "MANA",
+        "logo-png" : "https://cryptologos.cc/logos/decentraland-mana-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/decentraland-mana-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"32",
+        "Nombre" : "Decentralnd",
+        "Simbologia" : "MANA",
+        "logo-png" : "https://cryptologos.cc/logos/decentraland-mana-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/decentraland-mana-logo.svg?v=022"
+
+    }
+    , {
+        "id" :"32",
+        "Nombre" : "Decentralnd",
+        "Simbologia" : "MANA",
+        "logo-png" : "https://cryptologos.cc/logos/decentraland-mana-logo.png?v=022",
+        "logo-svg": "https://cryptologos.cc/logos/decentraland-mana-logo.svg?v=022"
+
+    }
+
+
+
+]
